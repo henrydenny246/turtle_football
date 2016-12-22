@@ -14,3 +14,5 @@ wn.bgcolor("lightgreen")
 wn.setworldcoordinates(-1000,-7.5,50,7.5)
 pMaker.speed(0)
 pMaker.color("white")
+
+#not finnished yet XD. Made this before but it got destroyed
